@@ -3,7 +3,7 @@
 ### This proejct sought to replicate the webpage by the Delani studio. In this project, I recreate the same website.
 
 ## Project Author
-### Project done by David Muthui Ndung'u- a student at Moringa School Learning DevOps and SRE.
+### Project done by David Muthui Ndung'u- a student at Moringa School Learning Software Engineering(SE).
 
 ## Setup Instructions.
 ### Considering this is a mock of the website, you don't have to do much. You can click the link: https://dmuthui.github.io/Moringa/delani_studio/index.html access the site. For access to code, it is available in the repo https://github.com/dmuthui/Moringa/tree/main/delani_studio. You can go ahead and clone it.
