@@ -1,9 +1,9 @@
 # Delani Studio
 ## Project Description
-### This proejct sought to replicate the webpage by the Delani studio. In this project, I recreate the same website.
+### This project sought to replicate the webpage by the Delani studio. In this project, I recreate the same website.
 
 ## Project Author
-### Project done by David Muthui Ndung'u- a student at Moringa School Learning Software Engineering(SE).
+### Project done by David Muthui Ndung'u:A student at Moringa School Learning Software Engineering(SE).
 
 ## Setup Instructions.
 ### Considering this is a mock of the website, you don't have to do much. You can click the link: https://github.com/dmuthui/MoringaProjects-Week3IP-delani-studio.git access the site. For access to code, it is available in the repo https://dmuthui.github.io/MoringaProjects-Week3IP-delani-studio/. You can go ahead and clone it.
