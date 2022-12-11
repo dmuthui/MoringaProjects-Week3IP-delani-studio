@@ -7,7 +7,7 @@
 
 ## Setup Instructions.
 ### Considering this is a mock of the website, you don't have to do much. You can click the link: https://github.com/dmuthui/MoringaProjects-Week3IP-delani-studio.git access the site. For access to code, it is available in the repo https://dmuthui.github.io/MoringaProjects-Week3IP-delani-studio/. You can go ahead and clone it.
-### To access the code, access the main.js for the Javascript file, index.html and style.css files from the Project folder.
+### To access the code, access the main.js for the Javascript file, index.html and style.css files from the MoringaProjects-Week3IP-delani-studio folder.
 
 ## Technologies used
 ### This is a simple project. I used HTML, CSS, Javascript and JQuery.
