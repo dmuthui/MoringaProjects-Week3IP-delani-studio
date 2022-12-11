@@ -1,6 +1,6 @@
 # Delani Studio
 ## Project Description
-##### This project sought to replicate the webpage by the Delani studio. In this project, I recreate the same website.
+##### This project sought to replicate the webpage by the Delani studio.In this project, I recreate the same website.
 
 ## Project Author
 ##### Project done by David Muthui Ndung'u:A student at Moringa School Learning Software Engineering(SE).
@@ -16,5 +16,5 @@
 ##### For collaboration and/or feedback, you can reach me on email vyda2002us@gmail.com. Please note my response is usually within 2 busines days.
 
 ### License and Copyright information
-### License The License used is GPL
-### Copyright (c) {2022} {David Muthui Ndung'u}
+##### License The License used is GPL
+##### Copyright (c) {2022} {David Muthui Ndung'u}
