@@ -15,6 +15,6 @@
 ## Contact Information
 ##### For collaboration and/or feedback, you can reach me on email vyda2002us@gmail.com. Please note my response is usually within 2 busines days.
 
-### License and Copyright information
+## License and Copyright information
 ##### License The License used is GPL
 ##### Copyright (c) {2022} {David Muthui Ndung'u}
