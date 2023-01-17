@@ -25,10 +25,10 @@ body {
 }
 
 #custom-info-on-portfolio-images{
-    position: relative; 
-    position: absolute; 
+    position:relative; 
+    position:absolute; 
     bottom: 0; 
-    right: 0 
+    right: 10px;
     } 
 
 .Hover,.Hover1, .Hover2, .Hover3, .Hover4, .Hover5, .Hover6, .Hover7{
